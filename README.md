@@ -1,2 +1,2 @@
-# teletrasportoQuantico
-spiegazione ed esempio pratico di come implementare il protocollo del teletrasporto quantico utilizzando Microsoft Q#
+# Teletrasporto Quantico
+Spiegazione ed esempio pratico di come implementare il _protocollo del teletrasporto quantico_ utilizzando **Microsoft Q#**.
